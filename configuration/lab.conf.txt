@@ -1,0 +1,5 @@
+M1[1]=HubA
+M2[2]=HubA
+M3[1]=HubA
+M4[2]=HubA
+serveur[1]=HubA
